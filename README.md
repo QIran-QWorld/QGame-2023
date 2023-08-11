@@ -8,5 +8,3 @@ During the program, participants will utilize the Pygame platform for game devel
 At the end of the QGame event, teams will have the opportunity to showcase their developed games by uploading them onto the QGame GitHub repository. This repository serves as a central hub where participants can share their creations with others and receive feedback from experts in the field.
 
 Overall, this unique event not only provides an avenue for competition but also fosters collaboration among professionals from different backgrounds. By combining their expertise and creativity, participants have the chance to create innovative games that bridge the gap between quantum physics and gaming.
-
-https://qworld.net/wp-content/uploads/2023/07/QIran_QGame_www-min.jpg
