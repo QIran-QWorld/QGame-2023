@@ -13,5 +13,5 @@ Overall, this unique event not only provides an avenue for competition but also 
 <br><br>
 [QGame 2023](https://qworld.net/qgame/)
 <br><br>
-[ ](https://qworld.net/wp-content/uploads/2023/07/QIran_QGame_www-min.jpg)
+![](https://qworld.net/wp-content/uploads/2023/07/QIran_QGame_www-min.jpg)
 
